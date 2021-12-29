@@ -1,0 +1,25 @@
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:century gothic;
+  }
+  
+  .flexbox{
+  display:flex;
+  }
+  
+  .gridbox{
+  display:grid;
+  }
+  
+  .x-center{
+  justify-content:center;
+  }
+  
+  .y-center{
+  align-items:center;
+  }
+  
+  
